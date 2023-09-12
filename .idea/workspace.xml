@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376a3c8b-94ed-4b72-a29d-44075abf5d4d" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FridgeMagnet.kt" afterDir="false" />
+    <list default="true" id="376a3c8b-94ed-4b72-a29d-44075abf5d4d" name="Changes" comment="drumkit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Songs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Songs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +35,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FridgeMagnetKt">
+  <component name="RunManager" selected="Kotlin.ClassesKt">
+    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassesKt" />
+      <module name="SongApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FridgeMagnetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FridgeMagnetKt" />
       <module name="SongApp" />
@@ -66,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.FridgeMagnetKt" />
         <item itemvalue="Kotlin.SongsKt" />
         <item itemvalue="Kotlin.MainKt" />
@@ -88,11 +92,19 @@
       <option name="project" value="LOCAL" />
       <updated>1694502208939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="drumkit">
+      <created>1694505430940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694505430940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="drumkit" />
+    <option name="LAST_COMMIT_MESSAGE" value="drumkit" />
   </component>
 </project>
